@@ -27,7 +27,7 @@ Feito com **HTML**, **CSS** e **JavaScript (Vanilla JS)**, com design clean e fu
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/LucasViniciusBermudes/javascript-qrcode-generator.git
+   git clone https://github.com/LucasViniciusBermudes/javascript-password-generator.git
    
    # 2. Acesse a pasta do projeto
    cd javascript-password-generator
@@ -36,3 +36,4 @@ Feito com **HTML**, **CSS** e **JavaScript (Vanilla JS)**, com design clean e fu
    start index.html      # Windows
    open index.html       # macOS
    xdg-open index.html   # Linux
+
